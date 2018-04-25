@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VirtualMarathonBasic1_1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="time">時間：</string>
+    <string name="distance">距離：</string>
+</resources>
